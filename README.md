@@ -1,2 +1,4 @@
-# Retropie_no_linux
+# Retropie no linux
+
+Sistema do retropie na sua distruição linux **(.deb)** preferida.
 
